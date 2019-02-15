@@ -6,4 +6,4 @@ help understand the pipeline.
 Pytorch 0.4.1  
 skimage  
 TensorbrardX for visualization  
-The dataset is the test set of the [MIT 205](scenehttp://places.csail.mit.edu/downloadData.html)  
+The dataset is the test set of the [MIT 205](http://places.csail.mit.edu/downloadData.html)  
