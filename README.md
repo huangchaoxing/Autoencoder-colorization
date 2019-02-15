@@ -7,3 +7,6 @@ Pytorch 0.4.1
 skimage  
 TensorbrardX for visualization  
 The dataset is the test set of the [MIT 205](http://places.csail.mit.edu/downloadData.html)  
+## Some results
+Some descent result:  
+[![Guangzhou OiKwan Hotel]](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/10_gray.jpg)	
