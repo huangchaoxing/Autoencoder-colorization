@@ -11,7 +11,7 @@ The dataset is the test set of the [MIT 205](http://places.csail.mit.edu/downloa
 ### Some descent results
 Guangzhou Oikwan Hotel:  
 ![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/10_gray.jpg)	![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/10_output.jpg)  
-Parliament house of Canberra:  
+The Parliament House in Canberra:  
 ![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/14_gray.jpg)![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/14_output.jpg)  
 Sydney Opera House:  
 ![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/6_gray.jpg) ![](https://github.com/huangchaoxing/Autoencoder-colorization/blob/master/sample/6_output.jpg)  
